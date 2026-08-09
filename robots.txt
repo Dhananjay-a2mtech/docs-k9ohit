@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-s5bvy0.indocuan-pro.cfd/sitemap.xml
